@@ -1,0 +1,1 @@
+Tampilan posting secara acak disertai dengan gambar
